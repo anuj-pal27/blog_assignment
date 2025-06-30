@@ -30,7 +30,7 @@ A modern blog website built with Next.js, featuring a rich text editor (React-Qu
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/anuj-pal27/blog_assignment.git
    cd blog_assignment
    ```
 
